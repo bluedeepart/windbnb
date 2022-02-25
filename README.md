@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://bluedeepart.github.io/dev-challenges">
+    <a href="https://bluedeepart.github.io/windbnb">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/bluedeepart/dev-challenges">
+    <a href="https://github.com/bluedeepart/windbnb">
       Solution
     </a>
     <span> | </span>
@@ -35,11 +35,7 @@
 
 ## Overview
 
-<<<<<<< HEAD
-![screenshot](src\assets\images\windbnb-screenshot.png)
-=======
-![screenshot](src/assets/images/button-compoenets.png)
->>>>>>> 521dd99218fb763b6279042f8cb97a43046652dd
+![screenshot](src/assets/images/windbnb-screenshot.png)
 
 <!-- Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
@@ -69,7 +65,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/bluedeepart/dev-challenges
+$ git clone https://github.com/bluedeepart/windbnb
 
 # Install dependencies
 $ npm install
