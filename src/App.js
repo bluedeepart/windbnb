@@ -10,7 +10,7 @@ function App() {
     <Router>
       <Header />
       <Routes>
-        <Route path="/windbnb" element={<Main />} />
+        <Route path="/windbnb/" element={<Main />} />
         <Route path='/windbnb/:title' element={<DetailsPage />}/>
       </Routes>
       <Footer />
